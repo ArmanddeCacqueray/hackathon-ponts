@@ -19,3 +19,10 @@ You can deactivate the environment with `deactivate`.
 
 if you need to use a new librairies, you can do it with pip
 `pip install [library name]` or `pip3 install [library name]`
+
+##modifs:   
+dans le terminal bash: py -m venv .venv
+dans bash: source .venv/Scripts/activate
+dans le powershell: pip install openai==0.28 
+dans le powershell: flask run
+
